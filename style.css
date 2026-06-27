@@ -1,5 +1,5 @@
 *{
-    background-color:deepskyblue
+    background-color:rgb(42, 127, 184)
 
 }
 
@@ -10,6 +10,15 @@ a{
 .logo_home{
     width: 400px;
 }
-.ft_selecaobrasileira{
+
+.ft_selecao{
+    width: 500px;
+}
+
+.ft_estadio1{
+    width: 670px;
+}
+
+.ft_estadio2{
     width: 500px;
 }
